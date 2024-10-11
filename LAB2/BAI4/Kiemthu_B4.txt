@@ -1,0 +1,131 @@
+So thi sinh la : 
+4
+Nhap thong tin cua thi sinh thu 1
+Nhap ten thi sinh 
+Cuong
+Nhap MSSV 
+2222
+Nhap ngay thang nam sinh cua thi sinh
+28 03 2005
+Nhap diem Toan
+10
+Nhap diem Van
+10
+Nhap diem Anh
+10
+Nhap thong tin cua thi sinh thu 2
+Nhap ten thi sinh 
+Chi
+Nhap MSSV 
+11212
+Nhap ngay thang nam sinh cua thi sinh
+15 6 2005
+Nhap diem Toan
+10
+Nhap diem Van
+10
+Nhap diem Anh
+10
+Nhap thong tin cua thi sinh thu 3
+Nhap ten thi sinh 
+Giang
+Nhap MSSV 
+13131
+Nhap ngay thang nam sinh cua thi sinh
+19 02 2005
+Nhap diem Toan
+10 10 9
+Nhap diem Van
+Nhap diem Anh
+Nhap thong tin cua thi sinh thu 4
+Nhap ten thi sinh 
+Huu
+Nhap MSSV 
+2001
+Nhap ngay thang nam sinh cua thi sinh
+20 12 2004
+Nhap diem Toan
+10 
+Nhap diem Van
+3
+Nhap diem Anh
+7
+Thong tin cua cac ban co diem tong cao hon 15 diem la : 
+Ten thi sinh la : 
+Cuong
+MSSV cua thi sinh la : 
+2222
+Ngay thang nam sinh cua thi sinh la : 
+28/3/2005
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+10
+Diem Anh cua thi sinh la : 
+10
+
+Ten thi sinh la : 
+Chi
+MSSV cua thi sinh la : 
+11212
+Ngay thang nam sinh cua thi sinh la : 
+15/6/2005
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+10
+Diem Anh cua thi sinh la : 
+10
+
+Ten thi sinh la : 
+Giang
+MSSV cua thi sinh la : 
+13131
+Ngay thang nam sinh cua thi sinh la : 
+19/2/2005
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+10
+Diem Anh cua thi sinh la : 
+9
+
+Ten thi sinh la : 
+Huu
+MSSV cua thi sinh la : 
+2001
+Ngay thang nam sinh cua thi sinh la : 
+20/12/2004
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+3
+Diem Anh cua thi sinh la : 
+7
+
+Thong tin cua cac ban co diem tong cao nhat la : 
+Ten thi sinh la : 
+Cuong
+MSSV cua thi sinh la : 
+2222
+Ngay thang nam sinh cua thi sinh la : 
+28/3/2005
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+10
+Diem Anh cua thi sinh la : 
+10
+
+Ten thi sinh la : 
+Chi
+MSSV cua thi sinh la : 
+11212
+Ngay thang nam sinh cua thi sinh la : 
+15/6/2005
+Diem Toan cua thi sinh la : 
+10
+Diem Van cua thi sinh la : 
+10
+Diem Anh cua thi sinh la : 
+10

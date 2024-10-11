@@ -1,0 +1,55 @@
+Test01 : 
+    Nhap toa do (x, y) : 
+    10 3
+    So thao tac thuc hien : 
+    5
+    Nhap so x 
+    1
+    Nhap so x 
+    2
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    2 5
+    Nhap so x 
+    1
+    Nhap so x 
+    2
+    (0,0)
+
+Test02:
+    Nhap toa do (x, y) : 
+    10 3
+    So thao tac thuc hien : 
+    10
+    Nhap so x 
+    1
+    Nhap so x 
+    2
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    0 5
+    Nhap so x 
+    1
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    3 5
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    3 10
+    Nhap so x 
+    1
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    0 3
+    Nhap so x 
+    3
+    Nhap huong tinh tien va doi dai tinh tien : 
+    0 3
+    Nhap so x 
+    1
+    (52,60)

@@ -1,0 +1,76 @@
+Test01 : 
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 1
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 2
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 6
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    2
+    Nhap gia tri can xoa x: 2
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    3
+    Nhap vi tri can thay the x va gia tri y: 1 4
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    -1
+    [1,4]
+
+Test02 : 
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 5
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 3
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 10
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: -10
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0 
+    Nhap gia tri x: -100
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0 
+    Nhap gia tri x: 100
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0  
+    Nhap gia tri x: 5
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0 
+    Nhap gia tri x: 1
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 5
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0 
+    Nhap gia tri x: 3
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 7
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 8
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 8
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    0
+    Nhap gia tri x: 10
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    1
+    Nhap gia tri can xoa x: 10
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    2
+    Nhap gia tri can xoa x: 100
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    3
+    Nhap vi tri can thay the x va gia tri y: 1
+    10
+    Nhap chi thi (0: them, 1: xoa dau tien, 2: xoa tat ca, 3: thay the, -1: thoat): 
+    -1
+    [5,10,-10,-100,5,1,5,3,7,8,8,10]

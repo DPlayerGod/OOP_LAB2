@@ -1,0 +1,47 @@
+Test01 : 
+    Nhap toa do dinh 1:
+    Hoanh do: 1
+    Tung do: 1
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 2
+    Nhap toa do dinh 3:
+    Hoanh do: 3
+    Tung do: 3
+    Nhap huong xoay va do dai tinh tien tam giac : 
+    90 4
+    (1.00319,5)
+    (2.00319,6)
+    (3.00319,7)
+
+Test02 : 
+    Nhap toa do dinh 1:
+    Hoanh do: 3
+    Tung do: 3
+    Nhap toa do dinh 2:
+    Hoanh do: 5
+    Tung do: 6
+    Nhap toa do dinh 3:
+    Hoanh do: 10
+    Tung do: 10
+    Nhap huong xoay va do dai tinh tien tam giac : 
+    45 9
+    (9.36649,9.36143)
+    (11.3665,12.3614)
+    (16.3665,16.3614)
+
+Test03: 
+    Nhap toa do dinh 1:
+    Hoanh do: 10
+    Tung do: 10
+    Nhap toa do dinh 2:
+    Hoanh do: 5
+    Tung do: 5
+    Nhap toa do dinh 3:
+    Hoanh do: -10
+    Tung do: -10
+    Nhap huong xoay va do dai tinh tien tam giac : 
+    10 3
+    (12.9545,10.5207)
+    (7.95447,5.52068)
+    (-7.04553,-9.47932)

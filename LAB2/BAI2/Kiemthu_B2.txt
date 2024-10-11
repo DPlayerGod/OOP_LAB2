@@ -1,0 +1,92 @@
+Test01:
+    Nhap toa do dinh A:
+    Hoanh do: 1
+    Tung do: 1
+    Nhap toa do dinh B:
+    Hoanh do: 2
+    Tung do: 2
+    Nhap toa do dinh C:
+    Hoanh do: 3
+    Tung do: 3
+    Toa do tam giac ban dau:
+    Dinh A: (1,1)
+    Dinh B: (2,2)
+    Dinh C: (3,3)
+    Toa do tam giac sau khi tinh tien (2, 3):
+    Dinh A: (3,4)
+    Dinh B: (4,5)
+    Dinh C: (5,6)
+    Toa do tam giac sau khi phong to 2 lan:
+    Dinh A: (6,8)
+    Dinh B: (8,10)
+    Dinh C: (10,12)
+    Toa do tam giac sau khi thu nho 2 lan:
+    Dinh A: (3,4)
+    Dinh B: (4,5)
+    Dinh C: (5,6)
+    Toa do tam giac sau khi quay 90 do:
+    Dinh A: (-4,3)
+    Dinh B: (-5,4)
+    Dinh C: (-6,5)
+
+Test02 :
+    Nhap toa do dinh A:
+    Hoanh do: 3
+    Tung do: 3
+    Nhap toa do dinh B:
+    Hoanh do: 4
+    Tung do: 4
+    Nhap toa do dinh C:
+    Hoanh do: 10
+    Tung do: 10
+    Toa do tam giac ban dau:
+    Dinh A: (3,3)
+    Dinh B: (4,4)
+    Dinh C: (10,10)
+    Toa do tam giac sau khi tinh tien (2, 3):
+    Dinh A: (5,6)
+    Dinh B: (6,7)
+    Dinh C: (12,13)
+    Toa do tam giac sau khi phong to 2 lan:
+    Dinh A: (10,12)
+    Dinh B: (12,14)
+    Dinh C: (24,26)
+    Toa do tam giac sau khi thu nho 2 lan:
+    Dinh A: (5,6)
+    Dinh B: (6,7)
+    Dinh C: (12,13)
+    Toa do tam giac sau khi quay 90 do:
+    Dinh A: (-6,5)
+    Dinh B: (-7,6)
+    Dinh C: (-13,12)
+
+Test03 : 
+    Nhap toa do dinh A:
+    Hoanh do: 2
+    Tung do: 2
+    Nhap toa do dinh B:
+    Hoanh do: 5
+    Tung do: 5
+    Nhap toa do dinh C:
+    Hoanh do: 7
+    Tung do: 7
+    Toa do tam giac ban dau:
+    Dinh A: (2,2)
+    Dinh B: (5,5)
+    Dinh C: (7,7)
+    Toa do tam giac sau khi tinh tien (2, 3):
+    Dinh A: (4,5)
+    Dinh B: (7,8)
+    Dinh C: (9,10)
+    Toa do tam giac sau khi phong to 2 lan:
+    Dinh A: (8,10)
+    Dinh B: (14,16)
+    Dinh C: (18,20)
+    Toa do tam giac sau khi thu nho 2 lan:
+    Dinh A: (4,5)
+    Dinh B: (7,8)
+    Dinh C: (9,10)
+    Toa do tam giac sau khi quay 90 do:
+    Dinh A: (-5,4)
+    Dinh B: (-8,7)
+    Dinh C: (-10,9)

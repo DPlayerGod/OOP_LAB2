@@ -1,0 +1,182 @@
+Test01:
+    Nhap so dinh cua da giac: 4
+    Nhap toa do dinh 1:
+    Hoanh do: 0  
+    Tung do: 0
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 0
+    Nhap toa do dinh 3:
+    Hoanh do: 0 
+    Tung do: 2
+    Nhap toa do dinh 4:
+    Hoanh do: 2
+    Tung do: 2
+    Toa do da giac ban dau:
+    Dinh 1: (0,0)
+    Dinh 2: (2,0)
+    Dinh 3: (0,2)
+    Dinh 4: (2,2)
+
+    Toa do da giac sau khi tinh tien (2, 3):
+    Dinh 1: (2,3)
+    Dinh 2: (4,3)
+    Dinh 3: (2,5)
+    Dinh 4: (4,5)
+
+    Toa do da giac sau khi phong to 2 lan:
+    Dinh 1: (4,6)
+    Dinh 2: (8,6)
+    Dinh 3: (4,10)
+    Dinh 4: (8,10)
+
+    Toa do da giac sau khi thu nho 2 lan:
+    Dinh 1: (2,3)
+    Dinh 2: (4,3)
+    Dinh 3: (2,5)
+    Dinh 4: (4,5)
+
+    Toa do da giac sau khi quay 45 do:
+    Dinh 1: (-0.707107,3.53553)
+    Dinh 2: (0.707107,4.94975)
+    Dinh 3: (-2.12132,4.94975)
+    Dinh 4: (-0.707107,6.36396)
+
+Test02: 
+
+    Nhap so dinh cua da giac: 5
+    Nhap toa do dinh 1:
+    Hoanh do: 1
+    Tung do: 1
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 2
+    Nhap toa do dinh 3:
+    Hoanh do: 3
+    Tung do: 5
+    Nhap toa do dinh 4:
+    Hoanh do: 7
+    Tung do: 7
+    Nhap toa do dinh 5:
+    Hoanh do: 9
+    Tung do: 9
+    Toa do da giac ban dau:
+    Dinh 1: (1,1)
+    Dinh 2: (2,2)
+    Dinh 3: (3,5)
+    Dinh 4: (7,7)
+    Dinh 5: (9,9)
+
+    Toa do da giac sau khi tinh tien (2, 3):
+    Dinh 1: (3,4)
+    Dinh 2: (4,5)
+    Dinh 3: (5,8)
+    Dinh 4: (9,10)
+    Dinh 5: (11,12)
+
+    Toa do da giac sau khi phong to 2 lan:
+    Dinh 1: (6,8)
+    Dinh 2: (8,10)
+    Dinh 3: (10,16)
+    Dinh 4: (18,20)
+    Dinh 5: (22,24)
+
+    Toa do da giac sau khi thu nho 2 lan:
+    Dinh 1: (3,4)
+    Dinh 2: (4,5)
+    Dinh 3: (5,8)
+    Dinh 4: (9,10)
+    Dinh 5: (11,12)
+
+    Toa do da giac sau khi quay 45 do:
+    Dinh 1: (-0.707107,4.94975)
+    Dinh 2: (-0.707107,6.36396)
+    Dinh 3: (-2.12132,9.19239)
+    Dinh 4: (-0.707107,13.435)
+    Dinh 5: (-0.707107,16.2635)
+
+
+Test03 : 
+    Nhap so dinh cua da giac: 4
+    Nhap toa do dinh 1:
+    Hoanh do: 1
+    Tung do: 2
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 4
+    Nhap toa do dinh 3:
+    Hoanh do: 5
+    Tung do: 6Nhap so dinh cua da giac: 4
+    Nhap toa do dinh 1:
+    Hoanh do: 1
+    Tung do: 2
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 4
+    Nhap toa do dinh 3:
+    Hoanh do: 5
+    Tung do: 6
+    Nhap toa do dinh 4:
+    Hoanh do: 6
+    Tung do: 7
+    Toa do da giac ban dau:
+    Dinh 1: (1,2)
+    Dinh 2: (2,4)
+    Dinh 3: (5,6)
+    Dinh 4: (6,7)
+
+    Toa do da giac sau khi tinh tien (2, 3):
+    Dinh 1: (3,5)
+    Dinh 2: (4,7)
+    Dinh 3: (7,9)
+    Dinh 4: (8,10)
+
+    Toa do da giac sau khi phong to 2 lan:
+    Dinh 1: (6,10)
+    Dinh 2: (8,14)
+    Dinh 3: (14,18)
+    Dinh 4: (16,20)
+
+    Toa do da giac sau khi thu nho 2 lan:
+    Dinh 1: (3,5)
+    Dinh 2: (4,7)
+    Dinh 3: (7,9)
+    Dinh 4: (8,10)
+
+    Toa do da giac sau khi quay 45 do:
+    Dinh 1: (-1.41421,5.65685)
+    Dinh 2: (-2.12132,7.77817)
+    Dinh 3: (-1.41421,11.3137)
+    Dinh 4: (-1.41421,12.7279)
+    Nhap toa do dinh 4:
+    Hoanh do: 6
+    Tung do: 7
+    Toa do da giac ban dau:
+    Dinh 1: (1,2)
+    Dinh 2: (2,4)
+    Dinh 3: (5,6)
+    Dinh 4: (6,7)
+
+    Toa do da giac sau khi tinh tien (2, 3):
+    Dinh 1: (3,5)
+    Dinh 2: (4,7)
+    Dinh 3: (7,9)
+    Dinh 4: (8,10)
+
+    Toa do da giac sau khi phong to 2 lan:
+    Dinh 1: (6,10)
+    Dinh 2: (8,14)
+    Dinh 3: (14,18)
+    Dinh 4: (16,20)
+
+    Toa do da giac sau khi thu nho 2 lan:
+    Dinh 1: (3,5)
+    Dinh 2: (4,7)
+    Dinh 3: (7,9)
+    Dinh 4: (8,10)
+
+    Toa do da giac sau khi quay 45 do:
+    Dinh 1: (-1.41421,5.65685)
+    Dinh 2: (-2.12132,7.77817)
+    Dinh 3: (-1.41421,11.3137)
+    Dinh 4: (-1.41421,12.7279)

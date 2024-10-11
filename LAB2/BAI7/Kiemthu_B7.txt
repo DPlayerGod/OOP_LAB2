@@ -1,0 +1,38 @@
+Test01:  
+    Nhap so dinh cua da giac: 
+    4
+    Nhap toa do dinh 1:
+    Hoanh do: 0  
+    Tung do: 0 
+    Nhap toa do dinh 2:
+    Hoanh do: 2
+    Tung do: 0
+    Nhap toa do dinh 3:
+    Hoanh do: 2
+    Tung do: 2
+    Nhap toa do dinh 4:
+    Hoanh do: 0 
+    Tung do: 2
+    Dien tich cua da giac la : 
+    4
+
+Test02: 
+    Nhap so dinh cua da giac: 
+    5
+    Nhap toa do dinh 1:
+    Hoanh do: 3
+    Tung do: 4
+    Nhap toa do dinh 2:
+    Hoanh do: 5
+    Tung do: 11
+    Nhap toa do dinh 3:
+    Hoanh do: 12
+    Tung do: 8
+    Nhap toa do dinh 4:
+    Hoanh do: 9
+    Tung do: 5
+    Nhap toa do dinh 5:
+    Hoanh do: 5
+    Tung do: 6
+    Dien tich cua da giac la : 
+    30
