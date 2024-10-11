@@ -1,0 +1,58 @@
+Test01 :
+    So phan so can nhap la : 5
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: 2
+    Nhap tu so cua phan so thu 2: 1
+    Nhap mau so cua phan so thu 2: 2
+    Nhap tu so cua phan so thu 3: 3
+    Nhap mau so cua phan so thu 3: 4
+    Nhap tu so cua phan so thu 4: 4
+    Nhap mau so cua phan so thu 4: 5
+    Nhap tu so cua phan so thu 5: -1
+    Nhap mau so cua phan so thu 5: 2
+    Nhap phan so a_k va b_k la :
+    -1 4
+    Tap hop cac phan so thoa man la : 
+    -1 2
+    1 2
+
+Test02 :
+    So phan so can nhap la : 10
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: 2
+    Nhap tu so cua phan so thu 2: -5
+    Nhap mau so cua phan so thu 2: 2
+    Nhap tu so cua phan so thu 3: -5
+    Nhap mau so cua phan so thu 3: -2
+    Nhap tu so cua phan so thu 4: 3
+    Nhap mau so cua phan so thu 4: 3
+    Nhap tu so cua phan so thu 5: 5
+    Nhap mau so cua phan so thu 5: 6
+    Nhap tu so cua phan so thu 6: 3
+    Nhap mau so cua phan so thu 6: 2
+    Nhap tu so cua phan so thu 7: 5
+    Nhap mau so cua phan so thu 7: 6
+    Nhap tu so cua phan so thu 8: 5
+    Nhap mau so cua phan so thu 8: 6
+    Nhap tu so cua phan so thu 9: 
+    5
+    Nhap mau so cua phan so thu 9: 5
+    Nhap tu so cua phan so thu 10: 100
+    Nhap mau so cua phan so thu 10: 5
+    Nhap phan so a_k va b_k la :
+    -25 8
+    Tap hop cac phan so thoa man la : 
+    -5 2
+    5 6
+    3 2
+
+Test03 : 
+    So phan so can nhap la : 3
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: 1
+    Nhap tu so cua phan so thu 2: 2
+    Nhap mau so cua phan so thu 2: 2
+    Nhap tu so cua phan so thu 3: 3
+    Nhap mau so cua phan so thu 3: 3
+    Nhap phan so a_k va b_k la :
+    4 1

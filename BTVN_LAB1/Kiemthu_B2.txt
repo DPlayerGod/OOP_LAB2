@@ -1,0 +1,56 @@
+Test01 
+    So phan so can nhap la : 3
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: 2
+    Nhap tu so cua phan so thu 2: 2
+    Nhap mau so cua phan so thu 2: 3
+    Nhap tu so cua phan so thu 3: 5
+    Nhap mau so cua phan so thu 3: 6
+    Nhap so thu k : 
+    1
+    Phan so be thu k la : 
+    1 2
+    Phan so lon thu k la : 
+    5 6
+
+Test02 : 
+    So phan so can nhap la : 5
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: 0
+    Mau so khong hop le. Vui long nhap lai mau so: 
+    5
+    Nhap tu so cua phan so thu 2: 0
+    Nhap mau so cua phan so thu 2: -3
+    Nhap tu so cua phan so thu 3: 3
+    Nhap mau so cua phan so thu 3: 3
+    Nhap tu so cua phan so thu 4: 5
+    Nhap mau so cua phan so thu 4: 6
+    Nhap tu so cua phan so thu 5: 7
+    Nhap mau so cua phan so thu 5: 8
+    Nhap so thu k : 
+    2
+    Phan so be thu k la : 
+    1 5
+    Phan so lon thu k la : 
+    7 8             
+
+Test03 :
+    So phan so can nhap la : 6
+    Nhap tu so cua phan so thu 1: 1
+    Nhap mau so cua phan so thu 1: -5
+    Nhap tu so cua phan so thu 2: -5
+    Nhap mau so cua phan so thu 2: 1
+    Nhap tu so cua phan so thu 3: -10
+    Nhap mau so cua phan so thu 3: 1
+    Nhap tu so cua phan so thu 4: 5
+    Nhap mau so cua phan so thu 4: 3
+    Nhap tu so cua phan so thu 5: 5
+    Nhap mau so cua phan so thu 5: 3
+    Nhap tu so cua phan so thu 6: 100
+    Nhap mau so cua phan so thu 6: 3
+    Nhap so thu k : 
+    2
+    Phan so be thu k la : 
+    -5 1
+    Phan so lon thu k la : 
+    5 3    
